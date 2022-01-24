@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ExamenRepeticion</string>
+    <string name="IniciarSeccion">Iniciar Seccion</string>
+    <string name="IngresarChocolates">Ingrese Chocolates</string>
+    <string name="IngresarUsuarios">Ingrese usuario</string>
+    <string name="Buscar">Buscar Chocolates</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Volver">Volver</string>
+    <string name="Salir">Salir</string>
+    <string name="Guardardo">Guardado Correctamente</string>
+    <string name="Descripcion">Ingrese Descripcion</string>
+    <string name="nombreUsuario">Nombre de Usuario</string>
+    <string name="Pass">Ingrese su Clave</string>
+    <string name="NuevoUsuario">Registrarse</string>
+    <string name="IngreseNombre">Ingrese Nombre</string>
+    <string name="Precio">Precio</string>
+    <string name="Codigo">Codigo</string>
+    <string name="tituloexterna">Datos desde la nube</string>
+    <string name="listadechocolates">Lista de Chocolates</string>
+    <string name="EliminarChocolates">Eliminar Chocolates por ID</string>
+    <string name="ModificarChocolates">Modificar Chocolates</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
